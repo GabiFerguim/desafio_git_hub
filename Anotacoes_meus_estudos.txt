@@ -1,0 +1,4 @@
+Os estudos começam com um apanhado sobre o Pensamento Computacional. Conceitos como decomposição, reconhecimento de padrões, abstração, design de algoritmos.
+Aprendemos sobre habilidades complementares, como o raciocínio lógico. 
+Ao estudar sobre a construção do algoritmo aprendemos as etapas, como compreensão do problema, definição dos dados de entrada, definição do processamento, dados de saída, método de construção, teste e diagnóstico. 
+Na sequência, o estudo foi sobre a lógica de programação essencial. Seguido da Introdução ao Scrum. 
